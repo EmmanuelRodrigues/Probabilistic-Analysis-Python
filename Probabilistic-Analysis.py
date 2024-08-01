@@ -1,10 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Initialize all_walks (don't change this line)
+# Initialize all_walks
 all_walks = []
 
-# Simulate random walk five times
+# Simulate random walk 1000 times
 all_walks = []
 for i in range(1000) :
     random_walk = [0]
